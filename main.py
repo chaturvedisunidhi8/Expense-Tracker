@@ -23,7 +23,7 @@ while True:
         expense={
             "date":date,
             "category":category,
-            "description":description,
+            "description":description, 
             "amount":amount
         }
 
