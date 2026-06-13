@@ -29,7 +29,7 @@ while True:
 
         expensesList.append(expense)
         print("\n expense added successfully!")
-
+ 
     #View All Expenses
     elif (choice==2):
         if (len(expensesList)==0):
