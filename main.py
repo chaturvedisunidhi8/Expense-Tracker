@@ -1,5 +1,5 @@
 #Expense Tracker Project  
-
+ 
 expensesList=[]  # list of all expenses in form of dictionary
 print("Welcome to Expense Tracker")
    
